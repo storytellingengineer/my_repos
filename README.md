@@ -81,11 +81,11 @@
   </tr>
   <tr>
     <td> Matplotlib - For visualization </td>
-    <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_Beginners"> Link </a>
+    <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_beginners"> Link </a>
   </tr>
   <tr>
     <td> Pandas - For Data Analysis </td>
-    <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_Beginners"> Link </a>
+    <td> <a href="https://github.com/AayushSaxena08/Pandas_implementation_with_Python"> Link </a>
   </tr>
 </table>
 
