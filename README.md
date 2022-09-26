@@ -22,8 +22,12 @@
   <td> <a href="https://github.com/AayushSaxena08/Decision_Tree_Implementation"> Link </a> </td>
 </tr>
 <tr>
-  <td> Ensemble Methods </td>
+  <td> Baggine & Boosting </td>
   <td> <a href="https://github.com/AayushSaxena08/Bagging_vs_Boosting"> Link </a> </td>
+</tr>
+<tr>
+  <td> Implementing Naive Bayes Classifier from scratch </td>
+  <td> <a href="https://github.com/AayushSaxena08/Naive_Bayes_Classifier"> Link </a> </td>
 </tr>
 </table>
 
@@ -63,7 +67,29 @@
   <td> <a href="https://github.com/AayushSaxena08/Devanagri_Character_Recognition"> Link </a> </td>
 </tr>
 <tr>
-  <td> Predicting price of vehicle </td>
+  <td> Predicting price of vehicle using RandomForestClassifier </td>
   <td> <a href="https://github.com/AayushSaxena08/Vehicle-Detection"> Link </a> </td>
 </tr>
 </table>
+
+## Python Libraries used for Machine Learning
+
+<table>
+  <tr>
+    <th> Libraries </th>
+    <th> Link </th>
+  </tr>
+  <tr>
+    <td> Matplotlib - For visualization </td>
+    <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_Beginners"> Link </a>
+  </tr>
+  <tr>
+    <td> Pandas - For Data Analysis </td>
+    <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_Beginners"> Link </a>
+  </tr>
+
+## Sometimes, I also have fun working on Leetcode problems.
+
+Helps me to get hands-on programming skills. Check out the link provided below
+
+<a href="https://github.com/AayushSaxena08/Leetcode_Practice"> Leetcode Problems </a>
