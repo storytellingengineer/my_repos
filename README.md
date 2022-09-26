@@ -87,9 +87,8 @@
     <td> Pandas - For Data Analysis </td>
     <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_Beginners"> Link </a>
   </tr>
+</table>
 
 ## Sometimes, I also have fun working on Leetcode problems.
 
-Helps me to get hands-on programming skills. Check out the link provided below
-
-<a href="https://github.com/AayushSaxena08/Leetcode_Practice"> Leetcode Problems </a>
+Helps me to get hands-on programming skills. Check out the link provided --> <a href="https://github.com/AayushSaxena08/Leetcode_Practice"> Leetcode Problems </a>
