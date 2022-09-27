@@ -83,16 +83,24 @@
     <th> Link </th>
   </tr>
   <tr>
-    <td> Matplotlib - For visualization </td>
-    <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_beginners"> Link </a>
-  </tr>
-  <tr>
-    <td> Pandas - For Data Analysis </td>
+    <td> Pandas : For Data Analysis </td>
     <td> <a href="https://github.com/AayushSaxena08/Pandas_implementation_with_Python"> Link </a>
   </tr>
   <tr>
-    <td> Numpy - For Numerical Computation </td>
+    <td> Numpy : For Numerical Computation </td>
     <td> <a href="https://github.com/AayushSaxena08/Numpy_Implementation_with_Python"> Link </a>
+  </tr>
+  <tr>
+    <td> Matplotlib : For visualization </td>
+    <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_beginners"> Link </a>
+  </tr>
+  <tr>
+    <td> SciPy : For Scientific Computing and Technical Computing </td>
+    <td> <a href="https://github.com/AayushSaxena08/SciPy_Library_with_Python"> Link </a>
+  </tr>
+  <tr>
+    <td> Scikit-Learn : For ML algorithms </td>
+    <td> <a href="https://github.com/AayushSaxena08/Scikit_Learn_with_Python"> Link </a>
   </tr>
 </table>
 
