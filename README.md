@@ -1,8 +1,11 @@
+# Hi friends, check out my work. Please ⭐ if you find it useful.
+
+
 ## ML Algorithms
 
 <table>
 <tr>
-  <th> Algorithm </th>
+  <th> Algorithms </th>
   <th> GitHub Link </th>
 </tr>
 <tr>
@@ -35,7 +38,7 @@
 
 <table>
 <tr>
-  <th> Project </th>
+  <th> Projects </th>
   <th> GitHub Link </th>
 </tr>
 <tr>
@@ -86,6 +89,10 @@
   <tr>
     <td> Pandas - For Data Analysis </td>
     <td> <a href="https://github.com/AayushSaxena08/Pandas_implementation_with_Python"> Link </a>
+  </tr>
+  <tr>
+    <td> Numpy - For Numerical Computation </td>
+    <td> <a href="https://github.com/AayushSaxena08/Numpy_Implementation_with_Python"> Link </a>
   </tr>
 </table>
 
