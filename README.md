@@ -29,49 +29,8 @@
   <td> <a href="https://github.com/AayushSaxena08/Bagging_vs_Boosting"> Link </a> </td>
 </tr>
 <tr>
-  <td> Implementing Naive Bayes Classifier from scratch </td>
+  <td> Naive Bayes Classifier from scratch </td>
   <td> <a href="https://github.com/AayushSaxena08/Naive_Bayes_Classifier"> Link </a> </td>
-</tr>
-</table>
-
-## Projects 
-
-<table>
-<tr>
-  <th> Projects </th>
-  <th> GitHub Link </th>
-</tr>
-<tr>
-  <td> Object Detection using Tensorflow API </td>
-  <td> <a href="https://github.com/AayushSaxena08/Tensorflow-2-Object-Detection-API"> Link </a> </td>
-</tr>
-<tr>
-  <td> Twitter Sentiment Analysis </td>
-  <td> <a href="https://github.com/AayushSaxena08/Twitter_Sentiment_Analysis"> Link </a> </td>
-</tr>
-<tr>
-  <td> Cat/Dog Classification using VGG16 model </td>
-  <td> <a href="https://github.com/AayushSaxena08/Image_Classification_using_Transfer_Learning"> Link </a> </td>
-</tr>
-<tr>
-  <td> Spam Email Detection </td>
-  <td> <a href="https://github.com/AayushSaxena08/Spam_Email_Detection"> Link </a> </td>
-</tr>
-<tr>
-  <td> Human Pose Estimation </td>
-  <td> <a href="https://github.com/AayushSaxena08/Human_pose_estimation"> Link </a> </td>
-</tr>
-<tr>
-  <td> Semi-supervised Classification using GAN </td>
-  <td> <a href="https://github.com/AayushSaxena08/Semi_supervised_Learning_For_Malenoma_Detection"> Link </a> </td>
-</tr>
-<tr>
-  <td> Devanagri Character Recognition </td>
-  <td> <a href="https://github.com/AayushSaxena08/Devanagri_Character_Recognition"> Link </a> </td>
-</tr>
-<tr>
-  <td> Predicting price of vehicle using RandomForestClassifier </td>
-  <td> <a href="https://github.com/AayushSaxena08/Vehicle-Detection"> Link </a> </td>
 </tr>
 </table>
 
@@ -103,6 +62,57 @@
     <td> <a href="https://github.com/AayushSaxena08/Scikit_Learn_with_Python"> Link </a>
   </tr>
 </table>
+
+## Computer Vision Projects 
+
+<table>
+<tr>
+  <th> Projects </th>
+  <th> GitHub Link </th>
+</tr>
+<tr>
+  <td> Object Detection using Tensorflow API </td>
+  <td> <a href="https://github.com/AayushSaxena08/Tensorflow-2-Object-Detection-API"> Link </a> </td>
+</tr>
+<tr>
+  <td> Twitter Sentiment Analysis </td>
+  <td> <a href="https://github.com/AayushSaxena08/Twitter_Sentiment_Analysis"> Link </a> </td>
+</tr>
+<tr>
+  <td> Cat/Dog Classification using VGG16 model </td>
+  <td> <a href="https://github.com/AayushSaxena08/Image_Classification_using_Transfer_Learning"> Link </a> </td>
+</tr>
+<tr>
+  <td> Human Pose Estimation </td>
+  <td> <a href="https://github.com/AayushSaxena08/Human_pose_estimation"> Link </a> </td>
+</tr>
+<tr>
+  <td> Semi-supervised Classification using GAN </td>
+  <td> <a href="https://github.com/AayushSaxena08/Semi_supervised_Learning_For_Malenoma_Detection"> Link </a> </td>
+</tr>
+<tr>
+  <td> Devanagri Character Recognition </td>
+  <td> <a href="https://github.com/AayushSaxena08/Devanagri_Character_Recognition"> Link </a> </td>
+</tr>
+<tr>
+  <td> Predicting price of vehicle using RandomForestClassifier </td>
+  <td> <a href="https://github.com/AayushSaxena08/Vehicle-Detection"> Link </a> </td>
+</tr>
+</table>
+
+## NLP Projects 
+
+<table>
+  <tr>
+  <th> Projects </th>
+  <th> GitHub Link </th>
+</tr>
+<tr>
+  <td> Spam Email Detection </td>
+  <td> <a href="https://github.com/AayushSaxena08/Spam_Email_Detection"> Link </a> </td>
+</tr>
+</table>
+
 
 ## Sometimes, I also have fun working on Leetcode problems.
 
