@@ -25,7 +25,7 @@
   <td> <a href="https://github.com/AayushSaxena08/Decision_Tree_Implementation"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr>
-  <td> Baggine & Boosting </td>
+  <td> Bagging & Boosting </td>
   <td> <a href="https://github.com/AayushSaxena08/Bagging_vs_Boosting"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr>
