@@ -63,6 +63,31 @@
   </tr>
 </table>
 
+## ML Projects 
+
+<table>
+<tr>
+  <th> Projects </th>
+  <th> Link </th>
+</tr>
+<tr>
+  <td> Recommendation System on Udemy Dataset </td>
+  <td> <a href="https://github.com/AayushSaxena08/Recommendation_System"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+</tr>
+<tr>
+  <td> Predicting price of vehicle using RandomForestClassifier </td>
+  <td> <a href="https://github.com/AayushSaxena08/Vehicle-Detection"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+</tr>
+<tr> 
+  <td> Breast Cancer Detection </td>
+  <td> <a href="https://github.com/AayushSaxena08/Breast-Cancer-Detection/tree/main"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+</tr>
+<tr>
+  <td> Weather Forecasting using ARIMA model </td>
+  <td> <a href="https://github.com/AayushSaxena08/Weather_Forecasting_with_Python"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+</tr>
+</table>
+
 ## Computer Vision Projects 
 
 <table>
@@ -75,7 +100,7 @@
   <td> <a href="https://github.com/AayushSaxena08/Tensorflow-2-Object-Detection-API"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr>
-  <td> Cat/Dog Classification using VGG16 model </td>
+  <td> Cat vs Dog Classification using VGG16 model </td>
   <td> <a href="https://github.com/AayushSaxena08/Image_Classification_using_Transfer_Learning"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr>
@@ -89,10 +114,6 @@
 <tr>
   <td> Devanagri Character Recognition </td>
   <td> <a href="https://github.com/AayushSaxena08/Devanagri_Character_Recognition"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Predicting price of vehicle using RandomForestClassifier </td>
-  <td> <a href="https://github.com/AayushSaxena08/Vehicle-Detection"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 </table>
 
