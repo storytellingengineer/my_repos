@@ -92,7 +92,7 @@
   <th> Link </th>
 </tr>
 <tr>
-  <td> Object Detection using Tensorflow API </td>
+  <td> Implemented SSD research paper on Object Detection </td>
   <td> <a href="https://github.com/AayushSaxena08/Tensorflow-2-Object-Detection-API"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr>
