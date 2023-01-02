@@ -1,4 +1,4 @@
-# Hi friends, check out my work. Please ⭐ if you find it useful.
+# Hi, check out my work. Please ⭐ if you find it useful.
 
 
 ## ML Algorithms
@@ -69,13 +69,17 @@
 <tr>
   <th> Projects </th>
   <th> Link </th>
-</tr>
+</tr> 
 <tr>
   <td> Recommendation System on Udemy Dataset </td>
   <td> <a href="https://github.com/AayushSaxena08/Recommendation_System"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr>
-  <td> Predicting price of vehicle using RandomForestClassifier </td>
+  <td> Heart Attack Analysis using Ensemble methods </td>
+  <td> <a href="https://github.com/AayushSaxena08/Heart-Attack-Analysis-And-Prediction"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+</tr>
+<tr>
+  <td> Predicting price of vehicle </td>
   <td> <a href="https://github.com/AayushSaxena08/Vehicle-Detection"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr> 
