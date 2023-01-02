@@ -53,14 +53,6 @@
     <td> Matplotlib : For visualization </td>
     <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_beginners"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
   </tr>
-  <tr>
-    <td> SciPy : For Scientific Computing and Technical Computing </td>
-    <td> <a href="https://github.com/AayushSaxena08/SciPy_Library_with_Python"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
-  </tr>
-  <tr>
-    <td> Scikit-Learn : For ML algorithms </td>
-    <td> <a href="https://github.com/AayushSaxena08/Scikit_Learn_with_Python"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
-  </tr>
 </table>
 
 ## ML Projects 
