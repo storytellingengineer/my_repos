@@ -53,6 +53,10 @@
     <td> Matplotlib : For visualization </td>
     <td> <a href="https://github.com/AayushSaxena08/Matplotlib_tutorial_for_beginners"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
   </tr>
+  <tr>
+    <td> PySpark </td>
+    <td> <a href="https://github.com/AayushSaxena08/Introduction_to_Pyspark"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+  </tr>
 </table>
 
 ## ML Projects 
@@ -77,6 +81,10 @@
 <tr> 
   <td> Breast Cancer Detection </td>
   <td> <a href="https://github.com/AayushSaxena08/Breast-Cancer-Detection/tree/main"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+</tr>
+<tr>
+  <td> Boston House Prediction using Regression </td>
+  <td> <a href="https://github.com/AayushSaxena08/Boston_house_pricing_regression"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 <tr>
   <td> Weather Forecasting using ARIMA model </td>
