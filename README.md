@@ -134,7 +134,7 @@
 </tr>
 <tr>
   <td> Twitter Sentiment Analysis </td>
-  <td> <a href="https://github.com/AayushSaxena08/Twitter_Sentiment_Analysis"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
+  <td> <a href="https://github.com/AayushSaxena08/Twitter_Sentiment_Analysis_NLP"><img src="https://raw.githubusercontent.com/aayushsaxena08/my_repos/main/github.png"></a></td>
 </tr>
 </table>
 
