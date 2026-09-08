@@ -1,148 +1,56 @@
-# Hi, check out my work. Please ⭐ if you find it useful.
+# Selected Work
 
+A curated list of projects and experiments across machine learning, NLP, computer vision, and applied AI.
 
-## ML Algorithms
+## Current Projects
 
-<table>
-<tr>
-  <th> Algorithms </th>
-  <th> Link </th>
-</tr>
-<tr>
-  <td> k-Nearest Neighbour </td>
-  <td> <a href="https://github.com/storytellingengineer/kNN_Classifier"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> K Means Clustering </td>
-  <td> <a href="https://github.com/storytellingengineer/KMeans_Clustering_Implementation"><img alt="Link" src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Support Vector Machine Classifier </td>
-  <td> <a href="https://github.com/storytellingengineer/SVM_Classifier"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a>
-</tr>
-<tr>
-  <td> Decision Trees </td>
-  <td> <a href="https://github.com/storytellingengineer/Decision_Tree_Implementation"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Bagging & Boosting </td>
-  <td> <a href="https://github.com/storytellingengineer/Bagging_vs_Boosting"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Naive Bayes Classifier from scratch </td>
-  <td> <a href="https://github.com/storytellingengineer/Naive_Bayes_Classifier"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-</table>
+| Project | Focus |
+|---|---|
+| [JARVIS OS](https://github.com/storytellingengineer/jarvis_os) | Personal AI operating system with an LLM-backed orchestration layer, conversation history, and an incremental agent architecture. |
+| [AI Eval Platform](https://github.com/storytellingengineer/ai-eval-platform) | Evaluation framework for LLM, RAG, and agentic AI systems, including deterministic metrics and an LLM-as-a-Judge foundation. |
+| [Text2SQL Project](https://github.com/storytellingengineer/text2sql_project) | Natural-language interfaces for translating user requests into SQL queries. |
+| [GenAI Cover Letter Assistant](https://github.com/storytellingengineer/genai-coverletter-assistant) | Applied GenAI workflow for generating tailored cover letters. |
 
-## Python Libraries used for Machine Learning
+## Machine Learning
 
-<table>
-  <tr>
-    <th> Libraries </th>
-    <th> Link </th>
-  </tr>
-  <tr>
-    <td> Pandas : For Data Analysis </td>
-    <td> <a href="https://github.com/storytellingengineer/Pandas_implementation_with_Python"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-  </tr>
-  <tr>
-    <td> Numpy : For Numerical Computation </td>
-    <td> <a href="https://github.com/storytellingengineer/Numpy_Implementation_with_Python"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-  </tr>
-  <tr>
-    <td> Matplotlib : For visualization </td>
-    <td> <a href="https://github.com/storytellingengineer/Matplotlib_tutorial_for_beginners"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-  </tr>
-  <tr>
-    <td> PySpark </td>
-    <td> <a href="https://github.com/storytellingengineer/Introduction_to_Pyspark"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-  </tr>
-</table>
+### Algorithms & Fundamentals
 
-## ML Projects 
+- [k-Nearest Neighbour](https://github.com/storytellingengineer/kNN_Classifier)
+- [K-Means Clustering](https://github.com/storytellingengineer/KMeans_Clustering_Implementation)
+- [Support Vector Machine Classifier](https://github.com/storytellingengineer/SVM_Classifier)
+- [Decision Tree Implementation](https://github.com/storytellingengineer/Decision_Tree_Implementation)
+- [Bagging & Boosting](https://github.com/storytellingengineer/Bagging_vs_Boosting)
+- [Naive Bayes Classifier](https://github.com/storytellingengineer/Naive_Bayes_Classifier)
 
-<table>
-<tr>
-  <th> Projects </th>
-  <th> Link </th>
-</tr> 
-<tr>
-  <td> Recommendation System on Udemy Dataset </td>
-  <td> <a href="https://github.com/storytellingengineer/Recommendation_System"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Heart Attack Analysis using Ensemble methods </td>
-  <td> <a href="https://github.com/storytellingengineer/Heart-Attack-Analysis-And-Prediction"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Predicting price of vehicle </td>
-  <td> <a href="https://github.com/storytellingengineer/Vehicle-Detection"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr> 
-  <td> Breast Cancer Detection </td>
-  <td> <a href="https://github.com/storytellingengineer/Breast-Cancer-Detection/tree/main"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Boston House Prediction using Regression </td>
-  <td> <a href="https://github.com/storytellingengineer/Boston_house_pricing_regression"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Weather Forecasting using ARIMA model </td>
-  <td> <a href="https://github.com/storytellingengineer/Weather_Forecasting_with_Python"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-</table>
+### Applied ML
 
-## Computer Vision Projects 
+- [Recommendation System](https://github.com/storytellingengineer/Recommendation_System)
+- [Heart Attack Analysis & Prediction](https://github.com/storytellingengineer/Heart-Attack-Analysis-And-Prediction)
+- [Boston House Price Regression](https://github.com/storytellingengineer/Boston_house_pricing_regression)
+- [Vehicle Detection](https://github.com/storytellingengineer/Vehicle-Detection)
 
-<table>
-<tr>
-  <th> Projects </th>
-  <th> Link </th>
-</tr>
-<tr>
-  <td> Implemented SSD research paper on Object Detection </td>
-  <td> <a href="https://github.com/storytellingengineer/Tensorflow-2-Object-Detection-API"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Cat vs Dog Classification using VGG16 model </td>
-  <td> <a href="https://github.com/storytellingengineer/Image_Classification_using_Transfer_Learning"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Human Pose Estimation </td>
-  <td> <a href="https://github.com/storytellingengineer/Human_pose_estimation"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Semi-supervised Classification using GAN </td>
-  <td> <a href="https://github.com/storytellingengineer/Semi_supervised_Learning_For_Malenoma_Detection"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-<tr>
-  <td> Devanagri Character Recognition </td>
-  <td> <a href="https://github.com/storytellingengineer/Devanagri_Character_Recognition"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-</table>
+## Computer Vision
 
-## NLP Projects 
+- [TensorFlow 2 Object Detection API](https://github.com/storytellingengineer/Tensorflow-2-Object-Detection-API)
+- [Image Classification using Transfer Learning](https://github.com/storytellingengineer/Image_Classification_using_Transfer_Learning)
+- [Human Pose Estimation](https://github.com/storytellingengineer/Human_pose_estimation)
+- [Semi-supervised Learning for Melanoma Detection](https://github.com/storytellingengineer/Semi_supervised_Learning_For_Malenoma_Detection)
+- [Devanagri Character Recognition](https://github.com/storytellingengineer/Devanagri_Character_Recognition)
 
-<table>
-  <tr>
-  <th> Projects </th>
-  <th> Link </th>
-</tr>
-<tr>
-  <td> Spam Email Detection </td>
-  <td> <a href="https://github.com/storytellingengineer/Spam_Email_Detection"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a>
-</tr>
-<tr>
-  <td> Twitter Sentiment Analysis </td>
-  <td> <a href="https://github.com/storytellingengineer/Twitter_Sentiment_Analysis_NLP"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-  <tr>
-  <td> Text Classification using LSTM </td>
-  <td> <a href="https://github.com/storytellingengineer/Text_Classification_using_LSTM"><img src="https://raw.githubusercontent.com/storytellingengineer/my_repos/main/github.png"></a></td>
-</tr>
-</table>
+## NLP
 
+- [Spam Email Detection](https://github.com/storytellingengineer/Spam_Email_Detection)
+- [Twitter Sentiment Analysis](https://github.com/storytellingengineer/Twitter_Sentiment_Analysis_NLP)
+- [Text Classification using LSTM](https://github.com/storytellingengineer/Text_Classification_using_LSTM)
 
-## Sometimes, I also have fun working on Leetcode problems.
+## Tools & Foundations
 
-Helps me to get hands-on programming skills. Check out the link provided --> <a href="https://github.com/storytellingengineer/Leetcode_Practice"> Leetcode Problems </a>
+- [Pandas Implementation with Python](https://github.com/storytellingengineer/Pandas_implementation_with_Python)
+- [NumPy Implementation with Python](https://github.com/storytellingengineer/Numpy_Implementation_with_Python)
+- [Matplotlib Tutorial](https://github.com/storytellingengineer/Matplotlib_tutorial_for_beginners)
+- [Introduction to PySpark](https://github.com/storytellingengineer/Introduction_to_Pyspark)
+- [LeetCode Practice](https://github.com/storytellingengineer/Leetcode_Practice)
+
+---
+
+The repository is intentionally kept as a lightweight index; individual repositories contain the implementation details, documentation, and ongoing work.
