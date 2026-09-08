@@ -8,8 +8,7 @@ A curated list of projects and experiments across machine learning, NLP, compute
 |---|---|
 | [JARVIS OS](https://github.com/storytellingengineer/jarvis_os) | Personal AI operating system with an LLM-backed orchestration layer, conversation history, and an incremental agent architecture. |
 | [AI Eval Platform](https://github.com/storytellingengineer/ai-eval-platform) | Evaluation framework for LLM, RAG, and agentic AI systems, including deterministic metrics and an LLM-as-a-Judge foundation. |
-| [Text2SQL Project](https://github.com/storytellingengineer/text2sql_project) | Natural-language interfaces for translating user requests into SQL queries. |
-| [GenAI Cover Letter Assistant](https://github.com/storytellingengineer/genai-coverletter-assistant) | Applied GenAI workflow for generating tailored cover letters. |
+| [GenAI Cover Letter Assistant](https://github.com/storytellingengineer/genai-coverletter-assistant) | Streamlit application for generating tailored cover letters from a resume and job description, with optional OpenAI generation. |
 
 ## Machine Learning
 
